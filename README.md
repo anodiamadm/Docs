@@ -1,4 +1,4 @@
-# Docs
+# Docs Folder
 
 * This folder contains all the Agile Scrum and othe Project Documents for the Anodiam Project.
 

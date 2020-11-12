@@ -1,0 +1,26 @@
+Select course by teacher id
+Update a cource by course id
+Update a teacher by teacher id
+Delete a teacher by teacher id by admin
+Delete a course by course id by teacher.
+
+Chapter table:
+Chapter_id ==> PK
+Chapter_title
+Course_id --> FK to Course
+
+
+Lesson table:
+Lesson_Id --> PK
+Lesson_title
+Course_Id --> FK to Chapter
+Lesson_Link  --> Http Link ---> Null TRANSIENT
+Lesson_Desc --> description --> Null
+
+
+Queries table
+Query_Id   --> PK
+Query_Desc
+Query_Link --> Http Link 
+Lesson_Id  --> FK to Lesson
+

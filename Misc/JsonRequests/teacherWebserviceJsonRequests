@@ -1,0 +1,73 @@
+SIGNUP
+-------------------------------------------
+URL: http://localhost:8090/api/auth/signup
+JSON:
+{
+	"username": "anodiamadm",
+    "email": "anodiam.adm@gmail.com",
+    "role":["ROLE_ADMIN", "ROLE_TEACHER"],
+    "password": "Anodiam@123"
+}
+*******************************************
+
+SIGNIN
+-------------------------------------------
+URL: localhost:8090/api/auth/signin
+JSON
+{
+	"username": "anodiamadm",
+    "password": "Anodiam@123"
+}
+*******************************************
+
+NEW COURSE
+-------------------------------------------
+URL: localhost:8090/api/newcourse
+JSON:
+{
+    "title" :"Std X",
+    "teacher_id" : 2,
+    "publicationDate" : "2020-06-05",
+    "language" : "English",
+    "subject" : "Physics",
+    "level" : 10,
+    "boardOrUniversity" : "WB",
+    "numberOfVideos" : 30,
+    "numberOfMinutes" : 400,
+    "numberOfTests" : 12,
+    "listPrice" : 1505,
+    "offerPrice" : 900,
+    "active" : true,
+    "studentsEnrolled" : 6,
+    "rating" : 4.2,
+    "description" :  "<b>Math</b> Course"
+}
+*******************************************
+
+CREATE NEW CHAPTER
+-------------------------------------------
+URL: localhost:8090/api/newchapter
+JSON:
+{
+    "chapter_id": 0,
+    "chapter_description": "this is Algebra for class 10",
+    "chapter_title": "Algebra",
+    "course": {
+        "id" : 2
+    }
+}
+
+*******************************************
+
+CREATE NEW LESSON ** NEEDS CORRECTION**
+-------------------------------------------
+URL: localhost:8090/api/newlesson
+JSON:
+{
+    "lesson_id": 0,
+    "lesson_description": "Quadratic Eqn Algebra class 10",
+    "chapter_title": "Quadratic Eqn",
+    "chapter": {
+        "chapter_id" : 1
+    }
+}

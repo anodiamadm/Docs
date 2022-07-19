@@ -1,0 +1,25 @@
+*1. Login: Reg: Logout: Change / Forget pwd >>> anodiam-auth-manager >> Spring Boot, Spring Data JPA
+2. Course >>> anodiam-course-manager >> Spring Boot, Spring Data JPA
+3. Course Content Management >>> anodiam-content-manager >> S3
+4. Rating >>> anodiam-rating-manager >> 
+5. Payment & Checkout >>> anodiam-payment-manager >>
+6. Discount >>> anodiam-discount-manager
+7. Student Profile >>> anodiam-user-manager
+8. My Courses >>> anodiam-subscription-manager
+9. progress manager >>> anodiam-progress-manager
+10.Quiz >>> anodiam-quiz-manager
+11.Achievements >>> anodiam-reward-manager
+12.SMTP email, SMS >>> anodiam-notification-manager
+13.Blogging Query and Resolution >>> anodiam-blog-manager
+*14.Web UI
+15.Mobile UI Controller >>>  
+*16.Mobile UI
+
+
+Infra Coding:
+Database: Postgress
+Eventing: Kafca
+
+An email (drafted below) will be sent to the user and also their guardian’s email address (if available) regarding the achieved scholarship.
+
+referrer's guardian

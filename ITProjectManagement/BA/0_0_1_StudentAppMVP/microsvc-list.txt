@@ -20,6 +20,4 @@ Infra Coding:
 Database: Postgress
 Eventing: Kafca
 
-An email (drafted below) will be sent to the user and also their guardian’s email address (if available) regarding the achieved scholarship.
-
-referrer's guardian
+*website screen print from wireframes to requirements doc (menu bar changed: My Profile)

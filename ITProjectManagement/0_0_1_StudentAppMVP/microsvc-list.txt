@@ -11,8 +11,8 @@
 11.Achievements >>> anodiam-reward-manager
 12.SMTP email, SMS >>> anodiam-notification-manager
 13.Blogging Query and Resolution >>> anodiam-blog-manager
+*15.UI Controller >>> anodiam-control-manager
 *14.Web UI
-15.Mobile UI Controller >>>  
 *16.Mobile UI
 
 
@@ -20,4 +20,3 @@ Infra Coding:
 Database: Postgress
 Eventing: Kafca
 
-*website screen print from wireframes to requirements doc (menu bar changed: My Profile)

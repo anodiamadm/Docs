@@ -14,9 +14,11 @@
     </dict>
   </array>
   <key>expanded</key><true/>
-  <key>title</key><string>AnodiamDocs2023</string>
   <key>nodeid</key><string>9009a789-8486-47c0-b6f9-05357e331541</string>
   <key>modified_time</key><integer>1675504648</integer>
+  <key>content_type</key><string>application/x-notebook-dir</string>
+  <key>created_time</key><integer>1675504648</integer>
+  <key>title</key><string>AnodiamDocs2023</string>
   <key>column_widths</key><dict>
     <key>created_time</key><integer>150</integer>
     <key>modified_time</key><integer>855</integer>
@@ -115,8 +117,6 @@
     </dict>
   </array>
   <key>version</key><integer>6</integer>
-  <key>content_type</key><string>application/x-notebook-dir</string>
-  <key>created_time</key><integer>1675504648</integer>
   <key>order</key><integer>0</integer>
 </dict>
 </node>

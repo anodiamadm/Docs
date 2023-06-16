@@ -1,0 +1,79 @@
+BA, Bcom, BBA, Non IT Professionals
+-----------------------------------
+MS Office
+Advanced Excel (VBA)
+HTML, CSS, JavaScript
+PHP, Wordpress
+Tally
+Advanced Commercial Packages
+
+
+
+BE, ME, BCA, MCA,BSc, MSc, IT Professionals 
+-------------------------------------------
+HTML, CSS, JavaScript
+PHP, Wordpress
+React, MUI
+React Native
+
+C
+C++
+Java
+Advanced Java
+Database, No SQL
+.Net (C#, VB.Net)
+Advanced .Net
+Microsoft Azure Cloud
+
+Linux, Shell Script
+Networking Basics
+Advanced Networking, CISCO
+
+Testing, Automation (Selenium)
+PMP
+Agile, PM
+
+Devops
+Docker & Kubernetes
+Cloud, AWS, GCP
+
+Tally
+Advanced Excel (VBA)
+Advanced Commercial Packages
+
+Data Science
+Python, Data Analytics
+Artificial Intelligence - Digital Signal Processing
+Artificial Intelligence - Natural Language Processing
+Artificial Intelligence - Computer Vision
+Artificial Intelligence - Video Processing
+
+IoT, Robotics
+Advanced, IoT, Robotics
+
+
+
+School Curricular IoT & AI
+--------------------------
+C
+C++
+Python, Data Analytics
+Data Science
+IoT, Robotics
+Advanced, IoT, Robotics
+
+
+
+
+School Co curricular
+--------------------
+C
+C++
+HTML, CSS, JavaScript
+Java
+Database, No SQL
+Python, Data Analytics
+Data Science
+Artificial Intelligence - Computer Vision
+IoT, Robotics
+Advanced, IoT, Robotics

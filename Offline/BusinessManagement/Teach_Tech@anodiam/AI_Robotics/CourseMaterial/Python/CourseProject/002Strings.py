@@ -7,3 +7,6 @@ print(name[2:5])            # utu
 print('my ' + name[3:])     # my tube
 myname = 'Sayan Basak'
 print(len(myname))          # 11
+
+""" Immutable """
+# myname[4] = 'N'           # This will give error

@@ -1,0 +1,381 @@
+***************************************************************
+*                                                             *
+* Copyright Hikvision Digital Technology Co., Ltd.            *
+*                                                             *
+***************************************************************
+
+22 logs output
+
+
+User: admin Date:02/08/2023 Time: 20:23:47 made video export from device 1620211217CCWRJ27116098WCVU
+
+
+----------------------------
+1     2023-08-02 16:36:02
+----------------------------
+Major Type: Information
+Minor Type: Stop Recording
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Camera: A1 stops recording. Record status: 
+Record enabled: No
+Event parameters: Enabled
+Record type: Event
+Stream type: Main Stream
+Motion detected on camera: None
+Alarm detected on camera: None
+Amount of relate log: 0.
+
+
+----------------------------
+2     2023-08-02 16:36:05
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+
+
+
+----------------------------
+3     2023-08-02 16:36:05
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A6
+
+
+
+
+----------------------------
+4     2023-08-02 16:36:06
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+
+
+
+----------------------------
+5     2023-08-02 16:36:06
+----------------------------
+Major Type: Information
+Minor Type: Start Recording
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Camera: A1 starts recording. Record status: 
+Record enabled: Yes
+Event parameters: Enabled
+Record type: Event
+Stream type: Main Stream
+Motion detected on camera: A1 
+Alarm detected on camera: None
+Amount of relate log: 0.
+
+
+----------------------------
+6     2023-08-02 16:36:06
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A6
+
+
+
+
+----------------------------
+7     2023-08-02 16:36:06
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+
+
+
+----------------------------
+8     2023-08-02 16:36:10
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A3
+
+
+
+
+----------------------------
+9     2023-08-02 16:36:10
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+
+
+
+----------------------------
+10    2023-08-02 16:36:13
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A6
+
+
+
+
+----------------------------
+11    2023-08-02 16:36:14
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A8
+
+
+
+
+----------------------------
+12    2023-08-02 16:36:15
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+
+
+
+----------------------------
+13    2023-08-02 16:36:17
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+
+
+
+----------------------------
+14    2023-08-02 16:36:18
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+
+
+
+----------------------------
+15    2023-08-02 16:36:18
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A8
+
+
+
+
+----------------------------
+16    2023-08-02 16:36:18
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A6
+
+
+
+
+----------------------------
+17    2023-08-02 16:36:23
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+A1 Len: 29248552 R: 1947460 W: 2276392 Time: 02-08-2023 16:36:23
+A2 Len: 14868552 R: 1454708 W: 1944588 Time: 02-08-2023 16:36:23
+A3 Len: 15153588 R: 1554744 W: 1822328 Time: 02-08-2023 16:36:23
+A4 Len: 23574132 R: 1142240 W: 1335028 Time: 02-08-2023 16:36:23
+A5 Len: 14577252 R: 300884 W: 607792 Time: 02-08-2023 16:36:23
+A6 Len: 30568432 R: 1214552 W: 1464704 Time: 02-08-2023 16:36:23
+A7 Len: 18319152 R: 566476 W: 1038412 Time: 02-08-2023 16:36:23
+A8 Len: 30946508 R: 543540 W: 662792 Time: 02-08-2023 16:36:23
+A9 Len: 2768724 R: 1217180 W: 1365912 Time: 02-08-2023 16:36:23
+A10 Len: 2729744 R: 990604 W: 1145204 Time: 02-08-2023 16:36:23
+A11 Len: 2721468 R: 1227360 W: 1385680 Time: 02-08-2023 16:36:23
+A12 Len: 2759784 R: 882884 W: 1035800 Time: 02-08-2023 16:36:23
+A13 Len: 2772548 R: 2037056 W: 2148364 Time: 02-08-2023 16:36:23
+A14 Len: 2761464 R: 810820 W: 963132 Time: 02-08-2023 16:36:23
+A15 Len: 2767196 R: 1784456 W: 1941772 Time: 02-08-2023 16:36:23
+A16 Len: 2759960 R: 171388 W: 319028 Time: 02-08-2023 16:36:23
+D1 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D2 Len: 0 R: 1868785010 W: 1919247474 Time: 01-01-1970 00:00:00
+D3 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D4 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D5 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D6 Len: 0 R: 117440512 W: 1868785010 Time: 01-01-1970 00:00:00
+D7 Len: 0 R: 109 W: 0 Time: 01-01-1970 00:00:00
+D8 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D9 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D10 Len: 0 R: 0 W: 117440512 Time: 01-01-1970 00:00:00
+D11 Len: 0 R: 1768187213 W: 1718503777 Time: 01-01-1970 00:00:00
+D12 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D13 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D14 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D15 Len: 0 R: 1919247474 W: 1851877443 Time: 01-01-1970 00:00:00
+D16 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D17 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D18 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+
+
+
+----------------------------
+18    2023-08-02 16:36:23
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+System status: 2
+User: 0%
+Sys: 5%
+Iowait: 0%
+Soft: 11%
+Idle: 83%
+Total memory: 344.33MB
+Free memory: 122.03MB
+Buffer: 111.72MB
+Cached: 1,128KB
+Main output: HDMI(2)
+Main output status: 11
+Main output screen-division: 0
+Enable main output screensaver: 1
+Aux output: Main CVBS(1)
+Aux output status: 0
+Aux output screen-division: 0
+Enable Aux output  screensaver: 1
+Current output: 2
+Motherboard temperature: 127
+DSP status: 
+CPU Temperature: 0
+:Flash write frequency: 0
+
+
+
+----------------------------
+19    2023-08-02 16:36:25
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+
+
+
+----------------------------
+20    2023-08-02 16:36:26
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A6
+
+
+
+
+----------------------------
+21    2023-08-02 16:36:43
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+
+
+
+----------------------------
+22    2023-08-02 16:36:47
+----------------------------
+Major Type: Information
+Minor Type: Stop Recording
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Camera: A1 stops recording. Record status: 
+Record enabled: No
+Event parameters: Enabled
+Record type: Event
+Stream type: Main Stream
+Motion detected on camera: None
+Alarm detected on camera: None
+Amount of relate log: 0.
+
+
+
+
+********************** LOG  END*************************
+
+

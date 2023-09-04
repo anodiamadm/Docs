@@ -1,0 +1,219 @@
+***************************************************************
+*                                                             *
+* Copyright Hikvision Digital Technology Co., Ltd.            *
+*                                                             *
+***************************************************************
+
+15 logs output
+
+
+User: admin Date:02/08/2023 Time: 20:24:21 made video export from device 1620211217CCWRJ27116098WCVU
+
+
+----------------------------
+1     2023-08-02 16:38:28
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+
+
+
+----------------------------
+2     2023-08-02 16:38:31
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+
+
+
+----------------------------
+3     2023-08-02 16:38:31
+----------------------------
+Major Type: Information
+Minor Type: Start Recording
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Camera: A1 starts recording. Record status: 
+Record enabled: Yes
+Event parameters: Enabled
+Record type: Event
+Stream type: Main Stream
+Motion detected on camera: A1 
+Alarm detected on camera: None
+Amount of relate log: 0.
+
+
+----------------------------
+4     2023-08-02 16:38:32
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A7
+
+
+
+
+----------------------------
+5     2023-08-02 16:38:35
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+
+
+
+----------------------------
+6     2023-08-02 16:38:37
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+
+
+
+----------------------------
+7     2023-08-02 16:38:38
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+
+
+
+----------------------------
+8     2023-08-02 16:38:38
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A6
+
+
+
+
+----------------------------
+9     2023-08-02 16:38:55
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+
+
+
+----------------------------
+10    2023-08-02 16:38:56
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A6
+
+
+
+
+----------------------------
+11    2023-08-02 16:39:01
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+
+
+
+----------------------------
+12    2023-08-02 16:39:02
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A6
+
+
+
+
+----------------------------
+13    2023-08-02 16:39:09
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+
+
+
+----------------------------
+14    2023-08-02 16:39:12
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+
+
+
+----------------------------
+15    2023-08-02 16:39:14
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+
+
+
+
+
+********************** LOG  END*************************
+
+

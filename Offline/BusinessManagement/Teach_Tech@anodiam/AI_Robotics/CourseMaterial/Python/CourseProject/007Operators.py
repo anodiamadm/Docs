@@ -39,3 +39,12 @@ print("a greater than 8 OR b lesser than 7:", a > 8 or b < 7)
 x = 'true'
 x = not x
 print("reverse of x:", x)
+
+# BITWISE OPERATORS
+
+print("Compliment Of 15:", ~15)                                         # COMPLIMENT
+print("Bitwise AND Of 15 & 16:", 15 & 16)                               # BITWISE AND
+print("Bitwise OR Of 15 & 16:", 15 | 16)                                # BITWISE OR
+print("XOR Of 15 & 16:", 15 ^ 16)                                       # BITWISE XOR
+print("shifting one bit to left from 10:", 10 << 1)                     # LEFT SHIFT
+print("shifting one bit to right from 10:", 10 >> 1)                    # RIGHT SHIFT

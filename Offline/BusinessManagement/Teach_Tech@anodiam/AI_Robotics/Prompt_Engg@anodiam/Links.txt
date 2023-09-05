@@ -1,2 +1,12 @@
 Youtube Course List Video:
 https://www.youtube.com/watch?v=ji93Lo6wYnk
+
+AI for Everyone:
+https://www.deeplearning.ai/courses/ai-for-everyone/
+
+Chat GPT Prompt Engineering for Developers:
+https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction
+
+Short Courses:
+https://www.deeplearning.ai/short-courses/
+

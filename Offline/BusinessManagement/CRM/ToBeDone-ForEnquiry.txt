@@ -26,3 +26,10 @@
 		
 5) If the content of remarks column is too long write in comment.
    Use the comment feature in excel.
+
+6) Rename the column Date as Visit Date.
+	If the column is blank just put a default value 01-09-2023.
+	Don't leave it blank.
+
+7) Beside the Visit Date column make another column as Enquiry Date.
+	Enquiry Date will be blank for those prospects whom we did not contacted.

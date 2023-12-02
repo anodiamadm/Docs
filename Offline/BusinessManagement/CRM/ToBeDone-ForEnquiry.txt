@@ -1,0 +1,38 @@
+1) From serial no 1 to 72, are all the calls done ?
+2) From serial no 100 to 133, are all the calls done ?
+3) For column Mock Test(Y/N), mark Y or N.
+   Don't leave it blank.
+
+4) Why the status column is blank ?
+   In CRM Process there are 5 steps
+		Steps						Status
+		-------						--------
+	a) Generate Brand Awarness				--> Initial
+	b) Acquire Leads					--> Potential 
+	c) Convert Leads into Customers				--> Customer
+	d) Provide Superior Support (Existing Customer)		--> Support
+	e) Drive Upsells and Referrals  (Existing Customer)	--> Upsells
+	
+	In addition to above statuses there can be 2 more statuses.
+
+	If any prospect rejects then in status column mark as Reject.
+	
+	If any prospect do not pick your call or Busy then in status column mark as Not-Contacted.
+	For Not-Contacted we need to call the prospect till we are sure about his/her status. 
+
+   	In the status column fill any one of the above status for each row.
+
+	We need to analyze the prospect on the basis of status column.
+		
+5) If the content of remarks column is too long write in comment.
+   Use the comment feature in excel.
+
+6) Rename the column Date as Visit Date.
+	If the column is blank just put a default value 01-09-2023.
+	Don't leave it blank.
+
+7) Beside the Visit Date column make another column as Enquiry Date.
+	Enquiry Date will be blank for those prospects whom we did not contacted.
+
+8) From SlNo 1 to 133 are records collected before 01-11-2023.
+   From Slno 134 are records collected after 01-11-2023.

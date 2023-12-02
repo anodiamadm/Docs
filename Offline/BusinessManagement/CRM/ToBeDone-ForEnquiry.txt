@@ -17,8 +17,8 @@
 
 	If any prospect rejects then in status column mark as Reject.
 	
-	If any prospect do not pick your call or Busy then in status column mark as Not-PickedUp.
-	For Not-PickedUp we need to call the prospect till we are sure about his/her status. 
+	If any prospect do not pick your call or Busy then in status column mark as Not-Contacted.
+	For Not-Contacted we need to call the prospect till we are sure about his/her status. 
 
    	In the status column fill any one of the above status for each row.
 

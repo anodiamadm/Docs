@@ -1,4 +1,6 @@
-Numpy: https://www.youtube.com/watch?v=gnKbAAVUzro&list=PLCC34OHNcOtpalASMlX2HHdsLNipyyhbK
+Numpy:  https://drive.google.com/drive/folders/1x35TP4xQhlSwF9ZIFCB5YJamQCv6fHvL
+Ref: https://www.youtube.com/watch?v=gnKbAAVUzro&list=PLCC34OHNcOtpalASMlX2HHdsLNipyyhbK
 
 
-matplotLib: https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_
+matplotLib:
+Ref: https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_

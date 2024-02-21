@@ -1,0 +1,4 @@
+Numpy: https://www.youtube.com/watch?v=gnKbAAVUzro&list=PLCC34OHNcOtpalASMlX2HHdsLNipyyhbK
+
+
+matplotLib: https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_

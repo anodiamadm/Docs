@@ -1,6 +1,13 @@
-Numpy:  https://drive.google.com/drive/folders/1x35TP4xQhlSwF9ZIFCB5YJamQCv6fHvL
-Ref: https://www.youtube.com/watch?v=gnKbAAVUzro&list=PLCC34OHNcOtpalASMlX2HHdsLNipyyhbK
+Anodiam Docs: https://drive.google.com/drive/folders/1x35TP4xQhlSwF9ZIFCB5YJamQCv6fHvL
 
 
-matplotLib:
-Ref: https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_
+Numpy Docs: https://numpy.org/doc/1.26/user/index.html
+Numpy1: https://www.youtube.com/watch?v=gnKbAAVUzro&list=PLCC34OHNcOtpalASMlX2HHdsLNipyyhbK
+Numpy2: https://www.youtube.com/watch?v=ZaKzw9tULeM&list=PLjVLYmrlmjGfgBKkIFBkMNGG7qyRfo00W&index=1
+
+MatplotLib: https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_
+
+Statistics: https://www.youtube.com/watch?v=XZo4xyJXCak&list=PL0o_zxa4K1BVsziIRdfv4Hl4UIqDZhXWV
+
+Probability Distn: https://www.youtube.com/watch?v=CfZa1daLjwo&list=PLaFfQroTgZnzbfK-Rie19FdV6diehETQy
+Numpy Docs: https://numpy.org/doc/1.26/user/index.html

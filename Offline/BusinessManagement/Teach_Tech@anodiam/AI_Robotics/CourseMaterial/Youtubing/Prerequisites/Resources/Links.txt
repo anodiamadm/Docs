@@ -1,6 +1,40 @@
-Numpy:  https://drive.google.com/drive/folders/1x35TP4xQhlSwF9ZIFCB5YJamQCv6fHvL
-Ref: https://www.youtube.com/watch?v=gnKbAAVUzro&list=PLCC34OHNcOtpalASMlX2HHdsLNipyyhbK
+Anodiam Docs: https://drive.google.com/drive/folders/1x35TP4xQhlSwF9ZIFCB5YJamQCv6fHvL
 
+Python: 
 
-matplotLib:
-Ref: https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_
+Numpy Docs: https://numpy.org/doc/1.26/user/index.html
+Numpy1: https://www.youtube.com/watch?v=gnKbAAVUzro&list=PLCC34OHNcOtpalASMlX2HHdsLNipyyhbK
+Numpy2: https://www.youtube.com/watch?v=ZaKzw9tULeM&list=PLjVLYmrlmjGfgBKkIFBkMNGG7qyRfo00W&index=1
+
+MatplotLib: https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_
+
+Mathematics:
+1. Co-ordinate Geometry: Straight line, Circle, Hyperbola, Sinosoids (sine, cos, tan, Sin(Theta + Alfa)), 3Ds(Cube, sphere), Inequalities
+2. Linear & Non linear equations
+3. AP, GP, Log & Exp
+4. Vectors, Sin & Cos components, Multidimensional vectors
+5. Linear equations of order one, two and three
+6. Matrix
+7. Real & Imaginary numbers
+8. Limits
+9. Differentiations
+10. Slopes
+11. Partial derrivatives
+12. Maxima, minima
+13. Integrations, area under curve
+14. Permutations & Combinations
+
+Statistics: https://www.youtube.com/watch?v=XZo4xyJXCak&list=PL0o_zxa4K1BVsziIRdfv4Hl4UIqDZhXWV
+1. Central Tendency: Mean, Median, Mode
+2. Standard Deviation
+3. Frequency Distrbution: Binomial
+4. Histogram
+5. Anova
+6. Correlation & Regression
+7. Discrete Vs Continuous Variables
+8. Probability
+9. Random Experiments & Sampling
+10. Probability Distributions: Uniform, Gausian (Normal), Poissions, Chai Square
+
+Probability Distn: https://www.youtube.com/watch?v=CfZa1daLjwo&list=PLaFfQroTgZnzbfK-Rie19FdV6diehETQy
+
